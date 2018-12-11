@@ -8,6 +8,6 @@ public class MainController {
 
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Jamil Pointer and the fam!\n";
+        return "Greetings from Jamil Pointer\n";
     }
 }
